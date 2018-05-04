@@ -12,3 +12,7 @@ Masykur Marhendra (Arsitek Bukalapak) --> [Kafka as messaging bus for Product In
 Materi Slide 2 :
 
 Endy Muhardin (Senior Consultant Artivisi) --> [Message-Driven Integration](https://github.com/JVMDeveloperID/JVM-Meetup-12/blob/master/slide/Message-Driven%20Integration.pdf) 
+
+Materi Slide 3 :
+
+Joshua Martinus Wahyudi & Ricky Martaputra (Solution Architect of Allianz Life Indonesia) --> [Monitor Your API : Because UP is not enough](https://github.com/JVMDeveloperID/JVM-Meetup-12/blob/master/slide/jvm12_slide3.pdf) 
