@@ -16,3 +16,7 @@ Endy Muhardin (Senior Consultant Artivisi) --> [Message-Driven Integration](http
 Materi Slide 3 :
 
 Joshua Martinus Wahyudi & Ricky Martaputra (Solution Architect of Allianz Life Indonesia) --> [Monitor Your API : Because UP is not enough](https://github.com/JVMDeveloperID/JVM-Meetup-12/blob/master/slide/jvm12_slide3.pdf) 
+
+Photo Session :
+
+![Photo Session](img/photo_session.JPG)
